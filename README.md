@@ -1,6 +1,6 @@
 # Alex Walker
 
-## Freecodecamp.org
+## Freecodecamp Markdown Previewer
 
 ### React
 
