@@ -8,4 +8,4 @@
 
 ##### Completed Project
 
-markdown-preview/public/completedProject.jpeg
+<img>markdown-preview/public/completedProject.jpeg</img>
